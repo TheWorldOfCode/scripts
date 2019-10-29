@@ -1,7 +1,8 @@
 ######################################
 # INSTALL OPENCV ON UBUNTU OR DEBIAN #
 ######################################
-
+# This scripts is modify by bases on the script from this github 
+# https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh
 # -------------------------------------------------------------------- |
 #                       SCRIPT OPTIONS                                 |
 # ---------------------------------------------------------------------|
