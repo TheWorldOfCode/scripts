@@ -12,3 +12,4 @@ This scripts creates a local folder, that can be remove after the installing is 
 ``` bash 
 sudo make uninstall
 ```
+The script is a (little bit ) modify version of the script created by milq. The original can be found onhere https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh 
